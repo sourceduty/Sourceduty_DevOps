@@ -1,0 +1,19 @@
+Materialization Cluster System and Knowledge Base
+
+Small-scale materialization cluster system using five gaming PCs.
+
+=========================================================================================
+
+A materialization cluster system focuses on understanding and manipulating matter at the atomic level. This knowledge base will contain information about materials' properties, synthesis methods, and potential applications in fields like nanotechnology, energy storage, and advanced manufacturing. By analyzing large datasets of experimental results and theoretical simulations, researchers can design new materials with tailored properties to meet specific needs. The materialization cluster system will enable scientists to explore the fundamental building blocks of matter and develop innovative solutions for real-world challenges.
+
+The cluster will consist of six nodes, five computational nodes and one head node, leveraging the power of modern gaming PCs. Each computational node will include a high-performance CPU, GPU, 64GB of RAM, and 2TB SSD storage to handle computationally intensive tasks like molecular dynamics simulations and quantum material modeling. Networking between the nodes will be facilitated by a high-speed 10 Gbps Ethernet switch, ensuring efficient data transfer and communication. The head node will have enhanced storage with additional redundancy to manage the centralized control and data repository.
+
+The system will utilize open-source simulation software such as Quantum ESPRESSO for electronic-structure calculations, LAMMPS for molecular dynamics, and OpenMM for customizable molecular simulations. PostgreSQL will serve as the database backbone for the knowledge base, ensuring scalability and robust data management. Workflow automation tools like Nextflow or Snakemake will streamline computational pipelines, while Docker or Singularity will ensure reproducibility and easy software management.
+
+The knowledge base will catalog materials’ properties, synthesis methods, and applications, sourced from experimental data and simulations. Each entry will include metadata such as material structure, processing parameters, and references to studies. The database will feature a web-based interface for easy access, querying, and visualization. Backup storage via a NAS system and uninterruptible power supplies will ensure data integrity and operational reliability, while adequate cooling solutions will maintain system performance during continuous operation.
+
+=========================================================================================
+
+Costs for the system are estimated at approximately $45,500 CAD. Hardware expenses amount to $20,500, covering the computational nodes, head node, networking equipment, and backup storage. Software expenses are minimal at $1,000, as most tools are open-source, with a placeholder for any necessary commercial licenses. Infrastructure costs, including power consumption, cooling, and internet upgrades, are estimated at $5,000 annually. Personnel costs for initial setup and ongoing maintenance are projected at $16,000, reflecting the need for IT expertise in system configuration and management.
+
+This materialization cluster system and knowledge base will provide a cost-effective platform for atomic-level simulations and materials science research. By leveraging affordable hardware and open-source software, it will support advanced computations and the development of a scalable database for collaborative research. Its modular design ensures reliability and allows for future upgrades to meet expanding research needs.

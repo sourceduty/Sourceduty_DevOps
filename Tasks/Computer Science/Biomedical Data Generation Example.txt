@@ -1,0 +1,51 @@
+BILL OF SALE
+Biomedical Engineering Project: Generate, Test, and Optimize New Medications
+Date: January 5, 2025
+Invoice Number: BME-001
+
+Buyer: [Name/Organization of the Buyer]
+Seller: [Your Name/Organization]
+
+Project Description:
+A comprehensive biomedical engineering initiative focusing on the design, testing, and optimization of novel medications. The project includes computational drug design, in vitro and in vivo testing, optimization, and preparation for clinical translation and commercialization.
+
+Breakdown of Costs (Estimated in CAD):
+
+1. Research and Development:
+   - Computational drug design and molecular modeling .......... $50,000
+   - Experimental in vitro testing ........................................ $30,000
+   - In vivo testing (animal models) ..................................... $50,000
+
+2. Optimization:
+   - High-throughput screening and dose optimization ............. $25,000
+   - Computational feedback for refinement ............................ $15,000
+
+3. Preclinical Studies:
+   - GLP-compliant safety and efficacy studies ...................... $75,000
+   - Regulatory documentation (IND application) .................... $10,000
+
+4. Commercial and Economic Analysis:
+   - Market research and analysis ........................................ $20,000
+   - IP protection (patent filing) ........................................... $10,000
+   - Cost optimization and manufacturing planning .................. $15,000
+
+5. Project Management and Miscellaneous:
+   - Project management and reporting ................................ $15,000
+   - Miscellaneous expenses (materials, overheads, etc.) ........... $10,000
+
+-------------------------------------------------------------------------------
+Total Estimated Cost (CAD): ........................................... $325,000
+
+Terms and Conditions:
+1. The buyer agrees to the above estimated costs, subject to adjustments for scope changes or unforeseen complexities.
+2. Payment Terms: 30% upfront, 40% during the project, 30% upon completion.
+3. Delivery Timeline: [Insert estimated timeline here].
+4. Intellectual Property: IP rights will be transferred upon full payment.
+
+Acknowledgment:
+By signing below, both parties agree to the terms outlined in this Bill of Sale.
+
+Buyer Signature: ________________________     Date: _____________
+Seller Signature: ________________________     Date: _____________
+
+Thank you for your business!
