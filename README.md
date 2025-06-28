@@ -38,9 +38,9 @@ Programming:
 
 #
 
-```
-
 By utilizing his own custom GPTs, Alex is able to deliver highly specialized services, from designing minimalist products and 3D models to creating engaging fan art and developing custom software solutions. The integration of AI into his workflow allows Alex to work more efficiently, improve the quality of his output, and offer innovative solutions to his clients. Whether it’s automating routine tasks or generating creative concepts, Alex’s self-created custom GPTs enable him to deliver personalized, high-impact results across a broad range of industries and business needs.
+
+```
 
 Alex's Skillset
 |
