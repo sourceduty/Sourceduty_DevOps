@@ -1,4 +1,4 @@
-![Experimental Source File](https://github.com/user-attachments/assets/798f0e17-6dcf-4012-a44a-2ea02202683b)
+![Sourceduty](https://github.com/user-attachments/assets/8d37628f-1c14-4d57-be2c-24df9416fc63)
 
 Sourceduty DevOps is Sourceduty's main shared work folder, designed to centralize and organize critical resources for collaborative tasks. It contains custom GPTs, specialized tools, and detailed work tasks, supporting the efficient execution of projects. As a shared resource, it ensures all team members have easy access to the tools and information they need to contribute effectively to ongoing initiatives, promoting streamlined workflows and productivity.
 
@@ -9,6 +9,8 @@ Sourceduty DevOps is Sourceduty's main shared work folder, designed to centraliz
 In the future, Sourceduty envisions a strategic expansion through the establishment of specialized subsidiaries, each focused on advancing key areas of its current developments. These subsidiaries would act as dedicated hubs for innovation, amplifying the company’s impact in fields like AI-driven content generation, digital art, 3D modeling, and virtual reality. By segmenting operations into targeted branches, Sourceduty can streamline its workflows, allowing each subsidiary to refine its expertise, optimize processes, and pioneer new solutions tailored to the unique challenges of its domain. For instance, a subsidiary dedicated to AI content development could focus on creating cutting-edge GPT technologies that serve niche industries, while another specializing in 3D modeling could push the boundaries of asset optimization and virtual world-building. This approach ensures that Sourceduty maintains its commitment to excellence while fostering an environment of focused innovation across its diverse portfolio.
 
 #
+
+![Experimental Source File](https://github.com/user-attachments/assets/798f0e17-6dcf-4012-a44a-2ea02202683b)
 
 Sourceduty can complete many different projects with an end customer or partnership.
 
