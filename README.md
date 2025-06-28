@@ -28,6 +28,7 @@ Material Science:
 2. Design, engineer and test a quantum mechanical powered engine for vehicles.
 3. Design, engineer, test and sell a custom consumer product or 3D model.
 4. Design, engineer and test Inflatable Airborne Deployment Bags.
+5. Remodel an existing 3D or 4D product.
 
 Programming:
 
