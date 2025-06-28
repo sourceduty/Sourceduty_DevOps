@@ -33,14 +33,6 @@ Programming:
 
 1. Develop and test a Discount Auctioning Model website or program.
 
-Marketing:
-
-1. Create a business collaboration using Collaborative Advertising.
-
-Notes:
-
-- Alex can also create new architectural, vehicular, watercraft and aircraft concept design images.
-
 #
 
 [Sourceduty](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
