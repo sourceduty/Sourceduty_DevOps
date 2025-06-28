@@ -34,6 +34,7 @@ Material Science:
 Programming:
 
 1. Develop and test a Discount Auctioning Model website or program.
+2. Develop a computational reactor for cancer.
 
 #
 
