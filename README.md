@@ -29,6 +29,7 @@ Material Science:
 3. Design, engineer, test and sell a custom consumer product or 3D model.
 4. Design, engineer and test Inflatable Airborne Deployment Bags.
 5. Remodel an existing 3D or 4D product.
+6. Design and engineer a new vehicle.
 
 Programming:
 
