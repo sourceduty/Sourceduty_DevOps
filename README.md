@@ -38,6 +38,62 @@ Programming:
 
 #
 
+```
+
+By utilizing his own custom GPTs, Alex is able to deliver highly specialized services, from designing minimalist products and 3D models to creating engaging fan art and developing custom software solutions. The integration of AI into his workflow allows Alex to work more efficiently, improve the quality of his output, and offer innovative solutions to his clients. Whether it’s automating routine tasks or generating creative concepts, Alex’s self-created custom GPTs enable him to deliver personalized, high-impact results across a broad range of industries and business needs.
+
+Alex's Skillset
+|
++---+ Design
+|   |
+|   +---+ Product Design
+|   |   |
+|   |   +-- Minimalist Product Design
+|   |   +-- Product Packaging
+|   |   +-- Vehicle Design
+|   |   +-- Mechanical Design
+|   |   +-- Industrial Design
+|   |   +-- House Design
+|   |   +-- Electronics Design
+|   |   +-- 3D Printing Models
+|   |   +-- Wedding Design
+|   |   +-- Food Design
+|   |   +-- Logo Design
+|   |   +-- Music Stage Design
+|   |
+|   +---+ Concept Art
+|   |   |
+|   |   +-- Sci-fi Design
+|   |   +-- Fan Art
+|   |
+|   +---+ Topology
+|
++--+ Entertainment Design
+|  |
+|  +-- Movie Set Design
+|  +-- Movie Ideas
+|  +-- Game Concept Design
+|  +-- Concept Art
+|  +-- Fan Art
+|
++--+ Technology
+|  |
+|  +-- Software Development
+|  |
+|  +-- Python Development
+|  +-- Custom GPTs
+|  +-- UI Design
+|  +-- Process Modelling
+|  +-- Scientific Research
+|  +-- Automation
+|
++--+ Business
+   |
+   +-- Business Models
+```
+
+#
+
 [Sourceduty](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
 <br>
 [Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee)
