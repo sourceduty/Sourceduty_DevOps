@@ -40,3 +40,5 @@ Programming:
 [Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee)
 <br>
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
+<br>
+[Computational Reactors](https://github.com/sourceduty/Computational_Reactors)
