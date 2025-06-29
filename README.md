@@ -96,7 +96,7 @@ Alex's Skillset
 
 #
 
-Alex: _I have unpublished private projects planned for the future, one of these holds immense potential for revolutionizing electric power generation._
+Alex: _I have unpublished private projects planned for the future, one of these holds immense potential for innovating electric power generation._
 
 #
 
