@@ -96,6 +96,10 @@ Alex's Skillset
 
 #
 
+Alex: _I have unpublished private projects planned for the future, one of these holds immense potential for revolutionizing electric power generation._
+
+#
+
 [Sourceduty](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
 <br>
 [Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee)
