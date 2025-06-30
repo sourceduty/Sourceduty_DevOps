@@ -106,19 +106,19 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 
 <br>
 
-| Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation (CPU Only)            | HP Z640 Workstation (CPU Only)                             |
-|-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
-| Inference Mode                      | CPU-only (Intel i5-10500H - 6 cores, 12 threads)              | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) | CPU-only (Intel Xeon E5-2699 V4 - 44 cores, 88 threads)      |
-| RAM                                 | 32GB DDR4                                                    | 32GB DDR4 ECC Registered                               | 128GB DDR4 ECC (upgraded from the base configuration)        |
-| Tokens per Second (Q4)              | 4–6 tokens/sec                                               | 8–12 tokens/sec                                        | 16–24 tokens/sec                                           |
-| Tokens per Second (Q5)              | 3–5 tokens/sec                                               | 6–10 tokens/sec                                        | 12–18 tokens/sec                                           |
-| Estimated Time for 5000 Tokens (Q4) | ~13.9 – 20.8 minutes                                         | ~6.9 – 10.4 minutes                                    | ~3.4 – 5.1 minutes                                         |
-| Estimated Time for 5000 Tokens (Q5) | ~16.7 – 27.8 minutes                                         | ~8.3 – 13.8 minutes                                    | ~4.2 – 6.3 minutes                                         |
-| Model Load Time (GGUF)              | ~25–35 seconds                                               | ~25–40 seconds                                         | ~20–30 seconds                                             |
-| Sustained Performance               | Medium (mobile thermals, may throttle)                        | High (server-grade, stable multithreaded loads)         | Very High (server-grade, optimized for multithreading)       |
-| Max Token Context Window           | ~2K–3K tokens (limited by RAM)                                | 4K–8K tokens (ample RAM)                               | 8K–16K tokens (ample RAM and powerful CPUs)                 |
-| Power Efficiency                    | High (mobile chip, efficient per watt)                        | Low (high power draw, higher sustained output)         | Medium (higher power consumption due to dual processors)     |
-| Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                     | Low (stationary tower workstation)                          |
+| Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation (RTX 3060 Upgrade)      | Upgrade (RTX 3060 in T5810)                                  |
+|-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|
+| Inference Mode                      | CPU-only (Intel i5-10500H - 6 cores, 12 threads)              | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) | GPU + CPU (Intel Xeon E5-2699C v4 - 22 cores, 44 threads)    |
+| RAM                                 | 32GB DDR4                                                    | 32GB DDR4 ECC Registered                               | 32GB DDR4 ECC (upgraded from base configuration)             |
+| Tokens per Second (Q4)              | 4–6 tokens/sec                                               | 8–12 tokens/sec                                        | 12–18 tokens/sec (faster with GPU)                           |
+| Tokens per Second (Q5)              | 3–5 tokens/sec                                               | 6–10 tokens/sec                                        | 10–15 tokens/sec (faster with GPU)                           |
+| Estimated Time for 5000 Tokens (Q4) | ~13.9 – 20.8 minutes                                         | ~6.9 – 10.4 minutes                                    | ~4.6 – 7.0 minutes (faster with GPU)                         |
+| Estimated Time for 5000 Tokens (Q5) | ~16.7 – 27.8 minutes                                         | ~8.3 – 13.8 minutes                                    | ~5.5 – 8.0 minutes (faster with GPU)                         |
+| Model Load Time (GGUF)              | ~25–35 seconds                                               | ~25–40 seconds                                         | ~20–30 seconds (faster with GPU)                             |
+| Sustained Performance               | Medium (mobile thermals, may throttle)                        | High (server-grade, stable multithreaded loads)         | High (faster due to GPU acceleration)                        |
+| Max Token Context Window           | ~2K–3K tokens (limited by RAM)                                | 4K–8K tokens (ample RAM)                               | 4K–8K tokens (ample RAM, accelerated by GPU)                 |
+| Power Efficiency                    | High (mobile chip, efficient per watt)                        | Low (high power draw, higher sustained output)         | Medium (higher power consumption due to GPU)                 |
+| Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                     | Low (stationary tower workstation)                           |
 
 #
 
