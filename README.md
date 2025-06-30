@@ -102,6 +102,8 @@ Sourceduty’s hardware lineup, as showcased through its detailed laptop reviews
 
 Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which offers exceptional value for a high-core-count productivity machine. Powered by an Intel Xeon E5-2699C v4 processor with 22 cores and 44 threads, this workstation is well-suited for intensive multitasking, rendering, simulation, and parallel computation tasks. Its 32GB of DDR4 ECC Registered RAM ensures reliable memory performance, especially for data-sensitive applications such as 3D modeling, CAD, and scientific analysis. The 250GB SSD provides decent storage for system files and essential software, while the ATI AMD Radeon 1GB video card, although modest, is sufficient for basic graphics tasks and general display output. With a gigabit ethernet port and a rugged chassis, the T5810 is ideal as a dependable development or back-end logic processing node in a Sourceduty workflow.
 
+``` DELL G15 ↔ WORKSTATION NODE ```
+
 <br>
 
 | Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation (CPU Only)            | HP Z640 Workstation (CPU Only)                             |
