@@ -135,3 +135,5 @@ Alex: _I have unpublished private projects planned for the future, one of these 
 [Python Libraries](https://github.com/sourceduty/Python_Libraries)
 <br>
 [SES Motor](https://github.com/sourceduty/Self-Excited_Motor)
+<br>
+[Local Offline](https://github.com/sourceduty/Local_Offline)
