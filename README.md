@@ -139,3 +139,5 @@ Alex: _I have unpublished private projects planned for the future, one of these 
 [SES Motor](https://github.com/sourceduty/Self-Excited_Motor)
 <br>
 [Local Offline](https://github.com/sourceduty/Local_Offline)
+<br>
+[Computer Upgrade](https://chatgpt.com/g/g-bSr9Rxt51-computer-upgrade)
