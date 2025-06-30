@@ -106,7 +106,7 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 
 <br>
 
-| Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation             | Upgrade (RTX 3060 in T5810)                                  |
+| Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation (CPU Only)         | Upgrade (RTX 3060 in T5810)                                  |
 |-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|
 | Inference Mode                      | CPU-only (Intel i5-10500H - 6 cores, 12 threads)              | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) | GPU + CPU (Intel Xeon E5-2699C v4 - 22 cores, 44 threads)    |
 | RAM                                 | 32GB DDR4                                                    | 32GB DDR4 ECC Registered                               | 32GB DDR4 ECC (upgraded from base configuration)             |
