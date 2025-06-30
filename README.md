@@ -96,6 +96,30 @@ Alex's Skillset
 
 #
 
+![Logitech M325](https://github.com/user-attachments/assets/42ad6cc3-7a48-4e58-9141-e8a164261678)
+
+Sourceduty’s hardware lineup, as showcased through its detailed laptop reviews, reflects a pragmatic and adaptive approach to computing, balancing cost-efficiency with real-world performance across creative, development, and simulation workloads. The Acer Aspire 5 Slim, upgraded to 20GB RAM and dual SSDs, is celebrated for its lightweight design and surprising speed, excelling in programming, light video editing, and 3D modeling despite lacking features like an SD card slot. The ASUS Vivobook 15, equipped with 16GB RAM and a Ryzen 5 7520U chip, stands out for portability and its ability to handle modern streamed games and creative tasks on high settings—though it is limited in expandability and ports. Meanwhile, the Dell G15 Gaming Laptop offers a clear performance bump for users stepping into higher-end creative workflows, boasting a 120Hz screen, 10th-gen i5 CPU, and GTX 1650 GPU—making it the most game-ready option in the lineup, albeit with constraints due to only 8GB of RAM and a tight 256GB SSD. The Lenovo ThinkPad A485, a budget-friendly refurbished unit, surprises with its rugged design and 32GB RAM capacity, delivering solid results in programming and multitasking despite its limited Radeon Vega GPU and dated interface. Together, these reviews form a clear picture of Sourceduty’s field-tested approach to hardware: systems are selected and upgraded based on how well they serve as platforms for design, logic simulation, 3D modeling, and development, with each unit evaluated on performance, thermal behavior, expandability, and practical usability within creative and logic-driven workflows.
+
+Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which offers exceptional value for a high-core-count productivity machine. Powered by an Intel Xeon E5-2699C v4 processor with 22 cores and 44 threads, this workstation is well-suited for intensive multitasking, rendering, simulation, and parallel computation tasks. Its 32GB of DDR4 ECC Registered RAM ensures reliable memory performance, especially for data-sensitive applications such as 3D modeling, CAD, and scientific analysis. The 250GB SSD provides decent storage for system files and essential software, while the ATI AMD Radeon 1GB video card, although modest, is sufficient for basic graphics tasks and general display output. With a gigabit ethernet port and a rugged chassis, the T5810 is ideal as a dependable development or back-end logic processing node in a Sourceduty workflow.
+
+<br>
+
+| Metric                              | Dell G15 Gaming Laptop (CPU Only)                             | Dell Precision T5810 Workstation (CPU Only)            | HP Z640 Workstation (CPU Only)                             |
+|-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
+| Inference Mode                      | CPU-only (Intel i5-10500H - 6 cores, 12 threads)              | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) | CPU-only (Intel Xeon E5-2699 V4 - 44 cores, 88 threads)      |
+| RAM                                 | 32GB DDR4                                                    | 32GB DDR4 ECC Registered                               | 128GB DDR4 ECC (upgraded from the base configuration)        |
+| Tokens per Second (Q4)              | 4–6 tokens/sec                                               | 8–12 tokens/sec                                        | 16–24 tokens/sec                                           |
+| Tokens per Second (Q5)              | 3–5 tokens/sec                                               | 6–10 tokens/sec                                        | 12–18 tokens/sec                                           |
+| Estimated Time for 5000 Tokens (Q4) | ~13.9 – 20.8 minutes                                         | ~6.9 – 10.4 minutes                                    | ~3.4 – 5.1 minutes                                         |
+| Estimated Time for 5000 Tokens (Q5) | ~16.7 – 27.8 minutes                                         | ~8.3 – 13.8 minutes                                    | ~4.2 – 6.3 minutes                                         |
+| Model Load Time (GGUF)              | ~25–35 seconds                                               | ~25–40 seconds                                         | ~20–30 seconds                                             |
+| Sustained Performance               | Medium (mobile thermals, may throttle)                        | High (server-grade, stable multithreaded loads)         | Very High (server-grade, optimized for multithreading)       |
+| Max Token Context Window           | ~2K–3K tokens (limited by RAM)                                | 4K–8K tokens (ample RAM)                               | 8K–16K tokens (ample RAM and powerful CPUs)                 |
+| Power Efficiency                    | High (mobile chip, efficient per watt)                        | Low (high power draw, higher sustained output)         | Medium (higher power consumption due to dual processors)     |
+| Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                     | Low (stationary tower workstation)                          |
+
+#
+
 Alex: _I have unpublished private projects planned for the future, one of these holds immense potential for innovating electric power generation._
 
 #
