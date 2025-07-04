@@ -148,3 +148,5 @@ Alex: _I have unpublished private projects planned for the future, one of these 
 [Local Offline](https://github.com/sourceduty/Local_Offline)
 <br>
 [Computer Upgrade](https://chatgpt.com/g/g-bSr9Rxt51-computer-upgrade)
+<br>
+[Dev Stack](https://chatgpt.com/g/g-6867349702448191992422c6ee423816-dev-stack)
