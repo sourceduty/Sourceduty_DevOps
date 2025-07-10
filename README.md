@@ -156,3 +156,5 @@ Alex: _I have unpublished private projects planned for the future, one of these 
 [Computer Upgrade](https://chatgpt.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 [Dev Stack](https://chatgpt.com/g/g-6867349702448191992422c6ee423816-dev-stack)
+<br>
+[Custom GPTs](https://github.com/sourceduty/Custom_GPTs)
