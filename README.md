@@ -132,7 +132,7 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 
 #
 
-Alex: _I have unpublished private projects planned for the future, one of these holds immense potential for innovating electric power generation._
+Alex: _I have unpublished private projects planned for the future, one of these holds immense potential for innovating electric power generation. I would invest into large collaborative tasks completed with small teams._
 
 #
 ![Timeline](https://github.com/user-attachments/assets/aeea4c5a-81aa-4e0a-8305-cb8e51cd0ffd)
