@@ -1,4 +1,5 @@
 ![Sourceduty](https://github.com/user-attachments/assets/8d37628f-1c14-4d57-be2c-24df9416fc63)
+![Science](https://github.com/user-attachments/assets/2845b468-ebae-47bc-95e3-a55aefa19bca)
 
 Sourceduty DevOps is Sourceduty's main shared work folder, designed to centralize and organize critical resources for collaborative tasks. It contains custom GPTs, specialized tools, and detailed work tasks, supporting the efficient execution of projects. As a shared resource, it ensures all team members have easy access to the tools and information they need to contribute effectively to ongoing initiatives, promoting streamlined workflows and productivity.
 
